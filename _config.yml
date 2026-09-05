@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ariyana Das"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Bachelor's of Psychology: Cognitive Neuroscience student year 2"
+  location         : "Adelaide, South Australia"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
