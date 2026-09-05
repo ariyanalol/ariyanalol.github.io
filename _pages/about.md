@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ariyana Das"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi everyone, I am a second year Psychology student majoring in Cognitive Neuroscience. For this course, at first I did not understand why I had to study coding and dive into data science, but as the weeks progressed I have truely enjoyed learning various psychological aspects such as filtering EEG data through a computer coding lense. Always at the start of a workshop, I get overwhelmed and frustrated because this feild of learning is different to the methods practiced so far. However, my new computational skills will certainly help me in the future when conducting research. I look foward to developing my technical skills in the weeks to come. 
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
